@@ -1,2 +1,2 @@
-# Shell-Demo
-常用Shell例子程序
+# MyBash
+常用Bash模板
